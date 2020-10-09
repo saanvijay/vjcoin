@@ -1,11 +1,11 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'vjpcoin' token contract
+// 'vjcoin' token contract
 //
 // Deployed to : 0x0513cB96aAb684743A84CEfDd947562BBFAfe043
-// Symbol      : VJP
-// Name        : vjpcoin
+// Symbol      : VJC
+// Name        : vjcoin
 // Total supply: 100000000
 // Decimals    : 18
 //
@@ -108,10 +108,11 @@ contract Vjpcoin is ERC20Interface, Owned, SafeMath {
 
     // ------------------------------------------------------------------------
     // Constructor
+    // Enter your public key (wallet address)
     // ------------------------------------------------------------------------
     constructor() public {
-        symbol = "VJP";
-        name = "vjpcoin Token";
+        symbol = "VJC";
+        name = "vjcoin Token";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
         balances[0x0513cB96aAb684743A84CEfDd947562BBFAfe043] = _totalSupply;
