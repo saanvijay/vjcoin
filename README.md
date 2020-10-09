@@ -1,2 +1,2 @@
-# vjpcoin
-Cryptocurreny vjpcoin built using ethereum
+# vjcoin
+Cryptocurreny vjcoin built using ethereum
