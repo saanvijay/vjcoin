@@ -28,7 +28,7 @@ Develop, deploy and make transaction your own cryptocurrency
 
 # Steps to be followed to transfer new coin to other accounts
    ## 1. Make sure you have connected your Matamask wallet with Rinkeby test network
-   ## 2. Using Metamask wallet, transfer new coin to other account
+   ## 2. Using Metamask wallet, transfer new coin to other account (coinbase wallet)
 ![ ](/images/transfer%20coin%20to%20coinbase.png)
    ## 3. Confirm transaction
 ![ ](/images/transfer%20coin%20confirm.png)
