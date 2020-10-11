@@ -8,7 +8,7 @@ Develop, deploy and make transaction your own cryptocurrency
 
 # Steps to be followed (Compile and Deployment)
     1. Write your contract using solidity and upload it in remix 
-    ![Alt text](https://github.com/saanvijay/vjcoin/blob/main/images/upload%20contract.png)
+    ![ ](/images/upload%20contract.png)
     
     2. Compile your contract using remix
     ![Alt text](https://github.com/saanvijay/vjcoin/blob/main/images/compile%20contract.png)
