@@ -36,3 +36,5 @@ Develop, deploy and make transaction your own cryptocurrency
 ![ ](/images/successful%20transfer.png)
    ## 5. You can see your balance of coins in your wallet by adding token, (make sure you have token contract address which you deployed)
 ![ ](/images/Add%20new%20token%20to%20metamask.png)
+   ## 6. Added token, can view the balance as well
+![ ](/images/Added%20Token.png)
