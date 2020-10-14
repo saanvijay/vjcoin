@@ -1,5 +1,5 @@
 # vjcoin
-Develop, deploy and make transaction your own cryptocurrency
+Develop, deploy and make transaction your own cryptocurrency (Note : This is just a demo, it's not a real coin, to do transaction on your own coin, first it should be listed in the Cryptocurrency exchanges via ICO and then the wallet you are going to use to send/receive your new coin should support your new coin, if not you will loose your coins)
 
 # Pre-requisites
     1. Remix IDE (remix.ethereum.org)
