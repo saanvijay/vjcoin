@@ -1,5 +1,5 @@
 # vjcoin
-Develop, deploy and make transaction your own cryptocurrency (Note : This is just a demo, it's not a real coin, to do transaction on your own coin, first it should be listed in the Cryptocurrency exchanges via ICO and then the wallet you are going to use to send/receive your new coin should support your new coin, if not you will loose your coins)
+Develop, deploy and make transaction your own cryptocurrency ( **Warning : This is just a demo, it's not a real coin, to do transaction on your own and real coin, first it should be listed in the Cryptocurrency exchanges via ICO and then the wallet you are going to use to send/receive your new coin should support your new coin, if not you will loose your coins** )
 
 # Pre-requisites
     1. Remix IDE (remix.ethereum.org)
@@ -20,10 +20,10 @@ Develop, deploy and make transaction your own cryptocurrency (Note : This is jus
 ![ ](/images/deploy%20contract.png)
 ![ ](/images/deploy%20contract%20using%20metamask.png)
 
-   ## 5. For successful deployment, you can get valid transaction id, check the log window
+   ## 5. For successful deployment, you should get valid transaction id, check the log window
 ![ ](/images/successful%20deployment.png)
 
-   ## 6. You can check the etherscan for successful transaction
+   ## 6. You can check the etherscan for successful transaction as well
 ![ ](/images/check%20with%20etherscan.png)
 
 # Steps to be followed to transfer new coin to other accounts
